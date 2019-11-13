@@ -1,7 +1,7 @@
 If GitHub fails to render the notebooks, use [Jupiter Nbviewer](https://nbviewer.jupyter.org/) or click links below:  
 
 [Banking Customers Segmentation](https://nbviewer.jupyter.org/github/AnnaSukhareva/DataScienceLabs/blob/master/Labs/Banking%20Customers%20Segmentation.ipynb)  
-[Bank Loan Default Prediction](https://nbviewer.jupyter.org/github/AnnaSukhareva/DataScienceLabs/blob/master/Labs/Bank%20Loan%20Default%20Prediction.ipynb)    
+[Banking Loan Default Prediction](https://nbviewer.jupyter.org/github/AnnaSukhareva/DataScienceLabs/blob/master/Labs/Bank%20Loan%20Default%20Prediction.ipynb)    
 
 [Healthcare Drugs recommendation](https://nbviewer.jupyter.org/github/AnnaSukhareva/DataScienceLabs/blob/master/Labs/Healthcare%20Drugs%20recommendation.ipynb)  
 [Healthcare tumor classification](https://nbviewer.jupyter.org/github/AnnaSukhareva/DataScienceLabs/blob/master/Labs/Healthcare%20tumor%20classification.ipynb)  
