@@ -1,9 +1,7 @@
 If GitHub fails to render the notebooks, use [Jupiter Nbviewer](https://nbviewer.jupyter.org/) or click links below:  
 
-[Retail stores: Sales Forecasting]
-(https://dfm.io/nbview/?url=https%3A%2F%2Fgithub.com%2FAnnaSukhareva%2FDataScienceLabs%2Fblob%2Fmaster%2FLabs%2FRetail%2520store%3A%2520Sales%2520forecasting%2FRetail%2520Store%2520sales%2520forecasting.ipynb)
-[Retail stores: Descriptive analytics]
-(https://dfm.io/nbview/?url=https%3A%2F%2Fgithub.com%2FAnnaSukhareva%2FDataScienceLabs%2Fblob%2Fmaster%2FLabs%2FRetail%2520store%3A%2520Sales%2520forecasting%2FRetail%2520store%2520data%2520analysis.ipynb)
+[Retail stores: Sales Forecasting](https://dfm.io/nbview/?url=https%3A%2F%2Fgithub.com%2FAnnaSukhareva%2FDataScienceLabs%2Fblob%2Fmaster%2FLabs%2FRetail%2520store%3A%2520Sales%2520forecasting%2FRetail%2520Store%2520sales%2520forecasting.ipynb)
+[Retail stores: Descriptive analytics](https://dfm.io/nbview/?url=https%3A%2F%2Fgithub.com%2FAnnaSukhareva%2FDataScienceLabs%2Fblob%2Fmaster%2FLabs%2FRetail%2520store%3A%2520Sales%2520forecasting%2FRetail%2520store%2520data%2520analysis.ipynb)
 
 [Banking Customers Segmentation](https://nbviewer.jupyter.org/github/AnnaSukhareva/DataScienceLabs/blob/master/Labs/Banking%20Customers%20Segmentation.ipynb)  
 [Banking Loan Default Prediction](https://nbviewer.jupyter.org/github/AnnaSukhareva/DataScienceLabs/blob/master/Labs/Banking%20Loan%20default%20prediction.ipynb)    
